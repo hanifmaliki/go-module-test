@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	helloGaes "github.com/hanifmaliki/go-module-test/pkg/hello-gaes"
-	helloWorld "github.com/hanifmaliki/go-module-test/pkg/hello-world"
+	helloGaes "github.com/hanifmaliki/go-module-test/v2/pkg/hello-gaes"
+	helloWorld "github.com/hanifmaliki/go-module-test/v2/pkg/hello-world"
 )
 
 func main() {
